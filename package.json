@@ -1,0 +1,20 @@
+{
+  "name": "@profitcreations/environment",
+  "version": "1.0.0",
+  "description": "freecodecamp exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Luis Pinheiro",
+  "license": "ISC",
+  "keywords": [
+    "freecodecamp",
+    "npm",
+    "how-to-npm",
+    "profitcreations"
+  ],
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
